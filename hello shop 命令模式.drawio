@@ -7,6 +7,9 @@
         <mxCell id="wwv39Vr1Hcd0nXPnE-27-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwv39Vr1Hcd0nXPnE-27-4" target="wwv39Vr1Hcd0nXPnE-27-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wwv39Vr1Hcd0nXPnE-27-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwv39Vr1Hcd0nXPnE-27-4" target="wwv39Vr1Hcd0nXPnE-27-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wwv39Vr1Hcd0nXPnE-27-4" value="IdentifiedCommand" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="-405" y="360" width="235" height="170" as="geometry" />
         </mxCell>
@@ -23,6 +26,17 @@
         </mxCell>
         <mxCell id="wwv39Vr1Hcd0nXPnE-27-5" value="&lt;b&gt;IdentifiedCommandHandler（abstract）&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;CreateResultForDuplicateRequest(func)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="450" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwv39Vr1Hcd0nXPnE-27-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wwv39Vr1Hcd0nXPnE-27-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wwv39Vr1Hcd0nXPnE-27-7" value="ClientRequest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-347.5" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwv39Vr1Hcd0nXPnE-27-10" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="660" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
