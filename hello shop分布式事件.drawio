@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="5UTdUSCFDeGSHlMIjqyq">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,25 +14,48 @@
           <mxGeometry x="80" y="310" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3pO6pO-CsgbG8wy_Jp-4-12" value="IDistributedEventHandler" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="520" width="220" height="120" as="geometry" />
+          <mxGeometry x="310" y="525" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3pO6pO-CsgbG8wy_Jp-4-13" value="HandleAsync（&lt;span style=&quot;font-size: 14px; text-align: center; text-wrap: wrap;&quot;&gt;DistributedEvent&lt;/span&gt;）" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="3pO6pO-CsgbG8wy_Jp-4-12" vertex="1">
           <mxGeometry y="50" width="220" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="o6CLyAK9TULTOnr05PsY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.35;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PpV6DBX44y8emLoChryG-1" target="3pO6pO-CsgbG8wy_Jp-4-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PpV6DBX44y8emLoChryG-1" value="DistributedEventBusBuilderExtensions" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="730" width="350" height="120" as="geometry" />
+          <mxGeometry x="245" y="710" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PpV6DBX44y8emLoChryG-2" value="AddSubscriptionFromAssembly（将IDistributedEventHandler&lt;div&gt;对应的实现注入到容器中）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="PpV6DBX44y8emLoChryG-1" vertex="1">
           <mxGeometry y="50" width="350" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yAZPlo5cQUQx6j2eBToR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAZPlo5cQUQx6j2eBToR-1" target="3pO6pO-CsgbG8wy_Jp-4-4">
+        <mxCell id="yAZPlo5cQUQx6j2eBToR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="yAZPlo5cQUQx6j2eBToR-1" target="3pO6pO-CsgbG8wy_Jp-4-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yAZPlo5cQUQx6j2eBToR-1" value="DaprDistributedEventBus" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="310" width="350" height="120" as="geometry" />
+        <mxCell id="yAZPlo5cQUQx6j2eBToR-1" value="DaprDistributedEventBus" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="310" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yAZPlo5cQUQx6j2eBToR-2" value="PublishAsync（&lt;span style=&quot;text-wrap: wrap; font-size: 14px; text-align: center;&quot;&gt;DistributedEvent&lt;/span&gt;）" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="yAZPlo5cQUQx6j2eBToR-1">
-          <mxGeometry y="50" width="350" height="70" as="geometry" />
+        <mxCell id="yAZPlo5cQUQx6j2eBToR-2" value="PublishAsync（&lt;span style=&quot;text-wrap: wrap; font-size: 14px; text-align: center;&quot;&gt;DistributedEvent&lt;/span&gt;）" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="yAZPlo5cQUQx6j2eBToR-1" vertex="1">
+          <mxGeometry y="50" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o6CLyAK9TULTOnr05PsY-1" value="&lt;div style=&quot;background-color:#ffffff;color:#202020&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:15.0pt;&quot;&gt;DaprDistributedEventBusExtensions&lt;/pre&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="600" width="400" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="o6CLyAK9TULTOnr05PsY-2" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(32, 32, 32); line-height: 40%;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:15.0pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:15.0pt;&quot;&gt;//加入dapr相关配置到容器&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:15.0pt;&quot;&gt;AddDaprDistributedEventBus&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:15.0pt;&quot;&gt;&lt;span style=&quot;font-size: 15pt; white-space-collapse: collapse;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:15.0pt;&quot;&gt;&lt;span style=&quot;font-size: 15pt; white-space-collapse: collapse;&quot;&gt;//配置mini api 处理分布式事件&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 15pt; line-height: 40%;&quot;&gt;MapDaprDistributedEventBus&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:15.0pt;&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="o6CLyAK9TULTOnr05PsY-1">
+          <mxGeometry y="50" width="400" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="o6CLyAK9TULTOnr05PsY-7" value="发布" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="795" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o6CLyAK9TULTOnr05PsY-8" value="订阅" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="880" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o6CLyAK9TULTOnr05PsY-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="500" as="sourcePoint" />
+            <mxPoint x="1370" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
