@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="Page-1" id="tA2JbpEOXWW7Z0XRQP5B">
-    <mxGraphModel dx="1428" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2255" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,14 +16,23 @@
         <mxCell id="kc3UdKayWJnkuiWkBIdf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kc3UdKayWJnkuiWkBIdf-3" target="kc3UdKayWJnkuiWkBIdf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kc3UdKayWJnkuiWkBIdf-3" value="&lt;div&gt;collector&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kc3UdKayWJnkuiWkBIdf-3" value="&lt;div&gt;collector(采集器)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kc3UdKayWJnkuiWkBIdf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="kc3UdKayWJnkuiWkBIdf-6" target="kc3UdKayWJnkuiWkBIdf-3">
+        <mxCell id="kc3UdKayWJnkuiWkBIdf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kc3UdKayWJnkuiWkBIdf-6" target="kc3UdKayWJnkuiWkBIdf-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kc3UdKayWJnkuiWkBIdf-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;需手动添加条目&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="-10" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kc3UdKayWJnkuiWkBIdf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kc3UdKayWJnkuiWkBIdf-8" target="kc3UdKayWJnkuiWkBIdf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kc3UdKayWJnkuiWkBIdf-8" value="&lt;ul&gt;&lt;li&gt;采集器路径配置(CollectorConfigure)&lt;/li&gt;&lt;li&gt;采集器类型(4通道,8通道...)&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="530" y="350" width="480" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kc3UdKayWJnkuiWkBIdf-12" value="SensorType(传感器类型)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;property: SensorTypeCode&lt;/div&gt;&lt;div&gt;property:&amp;nbsp;SensorDirection(传感器方向)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="600" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
