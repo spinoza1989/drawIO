@@ -5,34 +5,37 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kc3UdKayWJnkuiWkBIdf-1" value="center(风场)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="30" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kc3UdKayWJnkuiWkBIdf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kc3UdKayWJnkuiWkBIdf-2" target="kc3UdKayWJnkuiWkBIdf-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kc3UdKayWJnkuiWkBIdf-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;tower(风塔&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="205" y="170" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kc3UdKayWJnkuiWkBIdf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kc3UdKayWJnkuiWkBIdf-3" target="kc3UdKayWJnkuiWkBIdf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kc3UdKayWJnkuiWkBIdf-3" value="&lt;div&gt;collector(采集器)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="kc3UdKayWJnkuiWkBIdf-3" value="&lt;div&gt;collector(采集器)&lt;/div&gt;&lt;div&gt;property:CollectUnit(采集单位)&lt;/div&gt;&lt;div&gt;property:&amp;nbsp;CollectFrequency(采集频率)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kc3UdKayWJnkuiWkBIdf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kc3UdKayWJnkuiWkBIdf-6" target="kc3UdKayWJnkuiWkBIdf-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kc3UdKayWJnkuiWkBIdf-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;需手动添加条目&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="350" width="120" height="80" as="geometry" />
+          <mxGeometry x="-190" y="340" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kc3UdKayWJnkuiWkBIdf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kc3UdKayWJnkuiWkBIdf-8" target="kc3UdKayWJnkuiWkBIdf-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kc3UdKayWJnkuiWkBIdf-8" value="&lt;ul&gt;&lt;li&gt;采集器路径配置(CollectorConfigure)&lt;/li&gt;&lt;li&gt;采集器类型(4通道,8通道...)&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="530" y="350" width="480" height="100" as="geometry" />
+          <mxGeometry x="610" y="350" width="480" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kc3UdKayWJnkuiWkBIdf-12" value="SensorType(传感器类型)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;property: SensorTypeCode&lt;/div&gt;&lt;div&gt;property:&amp;nbsp;SensorDirection(传感器方向)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="600" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kc3UdKayWJnkuiWkBIdf-13" value="SensorGroup(传感器组&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="565" width="230" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
