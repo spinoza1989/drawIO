@@ -762,7 +762,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-186" value="Row 3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-184" vertex="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-186" value="Type : Sensor" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-184" vertex="1">
           <mxGeometry x="30" width="210" height="30" as="geometry">
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -778,7 +778,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-190" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-188" vertex="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-190" value="ID:&amp;nbsp;&lt;br/&gt;&lt;span class=&quot;fontstyle0&quot;&gt;TaiPingLi001NACGENRSS01&lt;/span&gt; &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-188" vertex="1">
           <mxGeometry x="30" width="210" height="30" as="geometry">
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -791,7 +791,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-193" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-191" vertex="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-193" value="ParentID:&amp;nbsp;&lt;br/&gt;&lt;span class=&quot;fontstyle0&quot;&gt;TaiPingLi001NACGEN&lt;/span&gt; &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-191" vertex="1">
           <mxGeometry x="30" width="210" height="30" as="geometry">
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1208,58 +1208,58 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-291" value="实体位置LocationOfEntity（4.2.2.1）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1480" width="240" height="150" as="geometry" />
+          <mxGeometry x="50" y="1480" width="450" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-292" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-291" vertex="1">
-          <mxGeometry y="30" width="240" height="30" as="geometry" />
+          <mxGeometry y="30" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-293" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-292" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-294" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-292" vertex="1">
-          <mxGeometry x="30" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-294" value="ID :&amp;nbsp;&lt;br/&gt;&lt;span class=&quot;fontstyle0&quot;&gt;TaiPingLi001NACMSNULR3OC&lt;/span&gt; &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-292" vertex="1">
+          <mxGeometry x="30" width="420" height="30" as="geometry">
+            <mxRectangle width="420" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-295" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="MQphtL0dKLKZvzentkG0-291" vertex="1">
-          <mxGeometry y="60" width="240" height="30" as="geometry" />
+          <mxGeometry y="60" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-296" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-295" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-297" value="ParentID&amp;nbsp; &amp;nbsp; &amp;nbsp;4.2.1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-295" vertex="1">
-          <mxGeometry x="30" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-297" value="ParentID&amp;nbsp; &amp;nbsp; &amp;nbsp;4.2.1 :&amp;nbsp;&lt;span class=&quot;fontstyle0&quot;&gt;TaiPingLi001NACMS&lt;/span&gt; &lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-295" vertex="1">
+          <mxGeometry x="30" width="420" height="30" as="geometry">
+            <mxRectangle width="420" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-298" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="MQphtL0dKLKZvzentkG0-291" vertex="1">
-          <mxGeometry y="90" width="240" height="30" as="geometry" />
+          <mxGeometry y="90" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-299" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-298" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-300" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-298" vertex="1">
-          <mxGeometry x="30" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-300" value="Type :&amp;nbsp;&lt;span class=&quot;fontstyle0&quot;&gt;LocationOfEntity&lt;/span&gt; &lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-298" vertex="1">
+          <mxGeometry x="30" width="420" height="30" as="geometry">
+            <mxRectangle width="420" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-301" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="MQphtL0dKLKZvzentkG0-291" vertex="1">
-          <mxGeometry y="120" width="240" height="30" as="geometry" />
+          <mxGeometry y="120" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-302" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-301" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-303" value="Row 3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-301" vertex="1">
-          <mxGeometry x="30" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-303" value="Name : &quot;&lt;span class=&quot;fontstyle0&quot;&gt;机舱主轴轴承径向三点&lt;/span&gt;&quot;&amp;nbsp;&amp;nbsp;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-301" vertex="1">
+          <mxGeometry x="30" width="420" height="30" as="geometry">
+            <mxRectangle width="420" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-305" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4.2.2实体位置结构模型(EntityLocation)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -1269,58 +1269,58 @@
           <mxGeometry x="20" y="-70" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-307" value="实体位置关系EntityLocationRelation（4.2.2.2）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="1480" width="240" height="150" as="geometry" />
+          <mxGeometry x="540" y="1480" width="420" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-308" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-307" vertex="1">
-          <mxGeometry y="30" width="240" height="30" as="geometry" />
+          <mxGeometry y="30" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-309" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-308" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-310" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-308" vertex="1">
-          <mxGeometry x="30" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-310" value="ID :&amp;nbsp;&lt;br/&gt;&lt;span class=&quot;fontstyle0&quot;&gt;TaiPingLi001NACMSNULR3OCPAS01&lt;/span&gt; &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-308" vertex="1">
+          <mxGeometry x="30" width="390" height="30" as="geometry">
+            <mxRectangle width="390" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-311" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="MQphtL0dKLKZvzentkG0-307" vertex="1">
-          <mxGeometry y="60" width="240" height="30" as="geometry" />
+          <mxGeometry y="60" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-312" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-311" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-313" value="ParentID&amp;nbsp; &amp;nbsp; &amp;nbsp;4.2.2.1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-311" vertex="1">
-          <mxGeometry x="30" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-313" value="ParentID&amp;nbsp; &amp;nbsp; &amp;nbsp;4.2.2.1 :&amp;nbsp;&lt;br&gt;&lt;span class=&quot;fontstyle0&quot;&gt;TaiPingLi001NACMSNULR3OC（机舱主轴轴承径向三点）&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-311" vertex="1">
+          <mxGeometry x="30" width="390" height="30" as="geometry">
+            <mxRectangle width="390" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-314" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="MQphtL0dKLKZvzentkG0-307" vertex="1">
-          <mxGeometry y="90" width="240" height="30" as="geometry" />
+          <mxGeometry y="90" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-315" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-314" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-316" value="EntityID&amp;nbsp; &amp;nbsp; 4.2.1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-314" vertex="1">
-          <mxGeometry x="30" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-316" value="EntityID&amp;nbsp; &amp;nbsp; 4.2.1 :&amp;nbsp;&lt;br&gt;&lt;span class=&quot;fontstyle0&quot;&gt;TaiPingLi001NACMSPAS01（主轴加速度传感器1）&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-314" vertex="1">
+          <mxGeometry x="30" width="390" height="30" as="geometry">
+            <mxRectangle width="390" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-317" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="MQphtL0dKLKZvzentkG0-307" vertex="1">
-          <mxGeometry y="120" width="240" height="30" as="geometry" />
+          <mxGeometry y="120" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-318" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-317" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-319" value="Row 3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-317" vertex="1">
-          <mxGeometry x="30" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-319" value="&lt;span class=&quot;fontstyle0&quot;&gt;“Name”:”&lt;/span&gt;&lt;span class=&quot;fontstyle1&quot;&gt;机舱主轴轴承径向三点&lt;/span&gt;&lt;span class=&quot;fontstyle0&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;fontstyle1&quot;&gt;主轴加速度传感器 &lt;/span&gt;&lt;span class=&quot;fontstyle0&quot;&gt;1”&lt;/span&gt; &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-317" vertex="1">
+          <mxGeometry x="30" width="390" height="30" as="geometry">
+            <mxRectangle width="390" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-333" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4.2.3测量位置结构模型MeasurementLocation&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -2399,6 +2399,16 @@
         </mxCell>
         <mxCell id="B7xD-kOctc3kJdf5s67U-4" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338" y="850" width="210" height="30" as="geometry">
+            <mxRectangle width="210" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B7xD-kOctc3kJdf5s67U-5" value="SectionType : &quot;NULL&quot; /&amp;nbsp;&amp;nbsp;&lt;span class=&quot;fontstyle0&quot;&gt;“OrientationType”:”R3OC”&lt;/span&gt; &lt;br&gt;&lt;br style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; line-height: normal; text-align: -webkit-auto; text-size-adjust: auto;&quot;&gt;&amp;nbsp;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1630" width="440" height="30" as="geometry">
+            <mxRectangle width="210" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B7xD-kOctc3kJdf5s67U-6" value="Name : 主轴加速度传感器1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1180" width="210" height="30" as="geometry">
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
