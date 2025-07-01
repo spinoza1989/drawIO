@@ -1604,61 +1604,6 @@
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-413" value="测量（4.2.4.4）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="2019" width="280" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-414" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-413" vertex="1">
-          <mxGeometry y="30" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-415" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-414" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-416" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-414" vertex="1">
-          <mxGeometry x="30" width="250" height="30" as="geometry">
-            <mxRectangle width="250" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-417" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="MQphtL0dKLKZvzentkG0-413" vertex="1">
-          <mxGeometry y="60" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-418" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-417" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-419" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-417" vertex="1">
-          <mxGeometry x="30" width="250" height="30" as="geometry">
-            <mxRectangle width="250" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-420" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="MQphtL0dKLKZvzentkG0-413" vertex="1">
-          <mxGeometry y="90" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-421" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-420" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-422" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-420" vertex="1">
-          <mxGeometry x="30" width="250" height="30" as="geometry">
-            <mxRectangle width="250" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-423" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="MQphtL0dKLKZvzentkG0-413" vertex="1">
-          <mxGeometry y="120" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-424" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-423" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-425" value="Row 3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="MQphtL0dKLKZvzentkG0-423" vertex="1">
-          <mxGeometry x="30" width="250" height="30" as="geometry">
-            <mxRectangle width="250" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-426" value="测量通用属性（4.2.4.4.1）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="2210" width="280" height="150" as="geometry" />
         </mxCell>
@@ -1769,7 +1714,7 @@
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-452" value="振动时域数据测量（4.2.4.4.2.1）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-452" value="振动时域数据测量VibTimeMeasurement（4.2.4.4.2.1）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="2380" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-453" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-452" vertex="1">
@@ -1824,8 +1769,8 @@
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-465" value="振动时域包络数据测量（4.2.4.4.2.2）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1630" y="2380" width="280" height="150" as="geometry" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-465" value="振动时域包络数据测量VibEnvelopeMeasurement（4.2.4.4.2.2）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1650" y="2380" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-466" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-465" vertex="1">
           <mxGeometry y="30" width="280" height="30" as="geometry" />
@@ -1879,8 +1824,8 @@
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-478" value="转速数据测量（4.2.4.4.2.3）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1940" y="2380" width="280" height="150" as="geometry" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-478" value="转速数据测量RotSpeedMeasurement（4.2.4.4.2.3）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1970" y="2380" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-479" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-478" vertex="1">
           <mxGeometry y="30" width="280" height="30" as="geometry" />
@@ -1934,8 +1879,8 @@
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-491" value="倾角数据测量（4.2.4.4.2.4）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2240" y="2380" width="280" height="150" as="geometry" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-491" value="倾角数据测量InclinationMeasurement（4.2.4.4.2.4）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2280" y="2380" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-492" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-491" vertex="1">
           <mxGeometry y="30" width="280" height="30" as="geometry" />
@@ -1989,8 +1934,8 @@
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-504" value="油液数据测量（4.2.4.4.2.5）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2560" y="2380" width="280" height="150" as="geometry" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-504" value="油液数据测量oilMeasurement（4.2.4.4.2.5）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2615" y="2380" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-505" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-504" vertex="1">
           <mxGeometry y="30" width="280" height="30" as="geometry" />
@@ -2044,8 +1989,8 @@
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-517" value="温度数据测量（4.2.4.4.2.6）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2880" y="2380" width="280" height="150" as="geometry" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-517" value="温度数据测量TemperatureMeasurement（4.2.4.4.2.6）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2940" y="2380" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-518" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-517" vertex="1">
           <mxGeometry y="30" width="280" height="30" as="geometry" />
@@ -2443,6 +2388,9 @@
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-612" value="4.2.1.5.2 部件特有属性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="338" y="698" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B7xD-kOctc3kJdf5s67U-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;测量Measurement&amp;nbsp; 4.2.4.4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="2090" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
