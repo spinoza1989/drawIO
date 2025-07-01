@@ -712,7 +712,7 @@
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-174" value="加速度传感器（4.2.1.6.2.1）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-174" value="加速度传感器AccelerometerSensor（4.2.1.6.2.1）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1040" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-175" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-174">
@@ -767,7 +767,7 @@
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-187" value="转速传感器（4.2.1.6.2.2）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-187" value="转速传感器RotSpeedSensor（4.2.1.6.2.2）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="1040" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-188" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-187">
@@ -822,7 +822,7 @@
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-200" value="磨粒传感器（4.2.1.6.2.3）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-200" value="磨粒传感器WearDebrisSensor（4.2.1.6.2.3）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="1040" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-201" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-200">
@@ -877,7 +877,7 @@
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-213" value="粘度传感器（4.2.1.6.2.4）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-213" value="粘度传感器ViscositySensor（4.2.1.6.2.4）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1040" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-214" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-213">
@@ -932,7 +932,7 @@
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-226" value="水分传感器（4.2.1.6.2.5）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-226" value="水分传感器MoistureSensor（4.2.1.6.2.5）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1040" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-227" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-226">
@@ -987,7 +987,7 @@
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-239" value="倾角传感器（4.2.1.6.2.6）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-239" value="倾角传感器InclinometerSensor（4.2.1.6.2.6）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1220" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-240" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-239">
@@ -1042,7 +1042,7 @@
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-252" value="超声波传感器（4.2.1.6.2.7）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-252" value="超声波传感器UltrasonicSensor（4.2.1.6.2.7）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="1220" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-253" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-252">
@@ -1097,7 +1097,7 @@
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-265" value="温度传感器（4.2.1.6.2.8）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-265" value="温度传感器TemperatureSensor（4.2.1.6.2.8）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="1220" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-266" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-265">
@@ -1152,7 +1152,7 @@
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-278" value="油液清洁度传感器（4.2.1.6.2.9）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-278" value="油液清洁度传感器OilCleanlinessSensor（4.2.1.6.2.9）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1220" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-279" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-278">
@@ -1207,7 +1207,7 @@
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-291" value="实体位置（4.2.2.1）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-291" value="实体位置LocationOfEntity（4.2.2.1）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="1480" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-292" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-291">
@@ -1262,13 +1262,13 @@
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-305" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4.2.2实体位置结构模型&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="15" y="1400" width="270" height="60" as="geometry" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-305" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4.2.2实体位置结构模型(EntityLocation)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15" y="1400" width="475" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-306" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4.2.1实体结构模型Entity&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="-70" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-307" value="实体位置关系（4.2.2.2）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-307" value="实体位置关系EntityLocationRelation（4.2.2.2）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1480" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-308" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-307">
@@ -1323,10 +1323,10 @@
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-333" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4.2.3测量位置结构模型&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1690" width="270" height="60" as="geometry" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-333" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4.2.3测量位置结构模型MeasurementLocation&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1690" width="600" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-334" value="测量位置（4.2.3.1）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-334" value="测量位置MeasurementLocation（4.2.3.1）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="1770" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-335" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-334">
@@ -1381,10 +1381,10 @@
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-360" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4.2.4测量计划结构模型&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1950" width="270" height="60" as="geometry" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-360" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4.2.4测量计划结构模型 MeasurementPlan&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1950" width="560" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-361" value="测量计划（4.2.4.1）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-361" value="测量计划MeasurementPlan（4.2.4.1）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="2019" width="310" height="211" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-362" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-361">
@@ -1421,7 +1421,7 @@
             <mxRectangle width="30" height="71" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-370" value="EntityID 测量实体ID 4.2.2.1&lt;div&gt;详见图1，EntityId 是由Entity扩展出的任一实体数据模型的ID,如WindTubine 的ID&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-368">
+        <mxCell id="MQphtL0dKLKZvzentkG0-370" value="EntityID 测量实体ID&lt;div&gt;详见图1，EntityId 是由Entity扩展出的任一实体数据模型的ID,如WindTubine 的ID&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="MQphtL0dKLKZvzentkG0-368">
           <mxGeometry x="30" width="280" height="71" as="geometry">
             <mxRectangle width="280" height="71" as="alternateBounds" />
           </mxGeometry>
