@@ -2044,10 +2044,10 @@
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-530" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4.2.5测量数据结构模型&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="35" y="2590" width="270" height="60" as="geometry" />
+        <mxCell id="MQphtL0dKLKZvzentkG0-530" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4.2.5测量数据结构模型(MeasurementData)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="35" y="2590" width="735" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-531" value="测量过程描述（4.2.5.1）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-531" value="测量过程描述MeasProcessDescription（4.2.5.1）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="2740" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-532" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-531" vertex="1">
@@ -2105,7 +2105,7 @@
         <mxCell id="MQphtL0dKLKZvzentkG0-544" value="测量过程描述：章节4.2.4.2测量过程执行后的描述信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="15" y="2670" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-545" value="测量动作描述（4.2.5.2）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-545" value="测量动作描述MeasActionDescription（4.2.5.2）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="2740" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-546" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-545" vertex="1">
@@ -2163,7 +2163,7 @@
         <mxCell id="MQphtL0dKLKZvzentkG0-558" value="测量动作描述：章节4.2.4.3测量动作执行后的描述信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="2670" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-559" value="波形数据（4.2.5.3）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-559" value="波形数据WaveformData（4.2.5.3）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="2740" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-560" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-559" vertex="1">
@@ -2218,7 +2218,7 @@
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-572" value="特征值数据（4.2.5.4）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-572" value="特征值数据EigenvalueData（4.2.5.4）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="2740" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-573" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-572" vertex="1">
@@ -2273,7 +2273,7 @@
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-585" value="特征值数据（4.2.5.5）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-585" value="实体报警状态EntityAlarmState（4.2.5.5）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="1350" y="2740" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-586" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-585" vertex="1">
@@ -2328,7 +2328,7 @@
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQphtL0dKLKZvzentkG0-598" value="实体运行状态（4.2.5.6）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+        <mxCell id="MQphtL0dKLKZvzentkG0-598" value="实体运行状态EntityRunningState（4.2.5.6）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="1660" y="2740" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MQphtL0dKLKZvzentkG0-599" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="MQphtL0dKLKZvzentkG0-598" vertex="1">
